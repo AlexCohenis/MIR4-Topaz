@@ -1,6 +1,6 @@
 # MIR4 Topaz
 
-![MIR4 Topaz Banner](assets/images/banner.png)
+![MIR4 Topaz Banner](https://github.com/AlexCohenis/MIR4-Topaz/blob/main/MIR4%20Topaz.png)
 
 ---
 
