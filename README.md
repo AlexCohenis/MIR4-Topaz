@@ -1,6 +1,6 @@
 # MIR4 Topaz
 
-![Topaz Banner](assets/images/banner.png)
+![MIR4 Topaz Banner](assets/images/banner.png)
 
 ---
 
