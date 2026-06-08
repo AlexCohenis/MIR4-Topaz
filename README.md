@@ -4,7 +4,7 @@
 
 ---
 
-### Quick Start
+### Guide
 
 https://docsend.com/view/d8t573pcqr6dia72
 
